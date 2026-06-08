@@ -8,7 +8,7 @@ My interests sit at the intersection of:
 - Data Engineering
 
 Currently, I'm:
-- Working as a Data Science Intern at Experian
+- Working as a Data Science Intern at Experian, creating anomaly detection ML models for credit fraud
 - Conducting research through the UC Berkeley School of Information, focusing on computer vision, data quality, and fairness in large-scale datasets
 - Building machine learning projects and data pipelines
 
