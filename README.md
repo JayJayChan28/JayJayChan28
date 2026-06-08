@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**JayJayChan28/JayJayChan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jayden, a Data Science student at UC Berkeley passionate about building data-driven products and scalable systems.
 
-Here are some ideas to get you started:
+My interests sit at the intersection of:
+- Data Science
+- Artificial Intelligence & Machine Learning
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm:
+- Working as a Data Science Intern at Experian
+- Conducting research through the UC Berkeley School of Information, focusing on computer vision, data quality, and fairness in large-scale datasets
+- Building machine learning projects and data pipelines
+
+My favorite tools include Python, SQL, Pandas, PyTorch, Scikit-Learn, AWS, Docker, Git, and Jupyter Notebooks.
+
+I've worked on projects involving machine learning, analytics, computer vision, ETL pipelines, cloud infrastructure, and business intelligence.
+
+When I'm not coding, you'll probably find me exploring startup ideas, learning about emerging technologies, working out, or reading.
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jaydenchan24/
+
+Always open to discussing data, AI, engineering, research, and interesting ideas.
