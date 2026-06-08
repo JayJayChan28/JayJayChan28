@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Jayden, a Data Science student at UC Berkeley passionate about building data-driven products and scalable systems.
+I'm Jayden, a Data Science student at UC Berkeley interested in building data-driven products and scalable systems.
 
 My interests sit at the intersection of:
 - Data Science
